@@ -45,5 +45,5 @@ The project adopted a structured Business Analysis approach combined with quanti
 * Discrete-Event Simulation Modelling
 
 ## Visualisations
-* **Figure 1**: [Pre-Rapid ID Call Handling Process]()
-* **Figure 2**: [Rapid ID Call Handling Process]()
+* **Figure 1**: [Pre-Rapid ID Call Handling Process](https://github.com/aarushijain16/delwarca-optimising-customer-support/blob/main/Pre-Rapid%20ID.png)
+* **Figure 2**: [Rapid ID Call Handling Process](https://github.com/aarushijain16/delwarca-optimising-customer-support/blob/main/Rapid%20ID.png)
